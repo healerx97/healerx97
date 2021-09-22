@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenny-yoon-23643513a/)[![Medium](https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://healerx97.medium.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenny.yoon@stern.nyu.edu)]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenny.yoon@stern.nyu.edu)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/ghun-kenny-yoon)
 
 # Hey there! 안녕하세요!😎 🤙🏻
