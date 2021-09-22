@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenny-yoon-23643513a/)[![Medium](https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://healerx97.medium.com/)
-[Email](mailto:kenny.yoon@stern.nyu.edu)
+[!Email](mailto:kenny.yoon@stern.nyu.edu)
 # Hi there! 안녕하세요!😎 🤙🏻
 
 **I'm Kenny,
