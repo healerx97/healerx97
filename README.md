@@ -11,11 +11,14 @@ Besides coding, I love making 🎹 beats, ✂️ barbering, and 🎮 gaming.**
 
 
 ## 🧑‍💻 Here are some of my projects:
-* **1. RaPool [Github](https://github.com/healerx97/RaPool) [Heroku](https://rapool.herokuapp.com/)** \n
+* **1. RaPool [Github](https://github.com/healerx97/RaPool) [Heroku](https://rapool.herokuapp.com/)**
+
 A raffling app that pools money from participants and donates the amount of money exceeding the required money needed to fund the product. Users are able to create raffles with any product of their choice from Amazon. When a product is fully funded of its product price (when there are enough participating shares for a raffle), the app automatically initiates the raffle and starts a countdown timer for 24 hours. During this time, any amount that is used to buy raffle shares will be donated under the name of all participants.
-* **2. Beat Match [Github](https://github.com/healerx97/Beat-Match) [Heroku](https://beat-match.herokuapp.com/)** \n
+* **2. Beat Match [Github](https://github.com/healerx97/Beat-Match) [Heroku](https://beat-match.herokuapp.com/)**
+
 A matchmaking app for producers and rappers, attempting to make it easier for musicians to find people to collaborate with. The app connects with the Soundcloud API widget to display users' tracks. Producers can swipe through all rappers and vice versa, creating matches in real-time. Users can also filter through the Feed which displays all the tracks that have been posted on users' profiles.
-* **3. Travel Haven [Github](https://github.com/healerx97/TravelHaven) [Heroku](https://travelhaven.herokuapp.com/)** \n
+* **3. Travel Haven [Github](https://github.com/healerx97/TravelHaven) [Heroku](https://travelhaven.herokuapp.com/)**
+
 An instant travel brochure generator that aims to make simple and informative travel brochures with a single click. The pictures and key locations of a searched location is sourced from the Google Places API and users will be able to download the content with a click of a button.
 
 ## 🔧 Languages & Tools:
