@@ -8,7 +8,11 @@
 **I'm Kenny,
 a Full-Stack Developer who recently graduated from Flatiron School, currently studying Finance and Data Science at NYU.
 Besides coding, I love making 🎹 beats, ✂️ barbering, and 🎮 gaming.**
-* **Currently working on [commandMe](https://github.com/healerx97/commandMe)**
+
+**Currently working on**
+* [commandMe](https://github.com/healerx97/commandMe)
+* Django
+* MariaDB
 
 
 ## 🧑‍💻 Here are some of my projects:
