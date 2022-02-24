@@ -10,7 +10,7 @@ a Full-Stack Developer who recently graduated from Flatiron School, currently st
 Besides coding, I love making 🎹 beats, ✂️ barbering, and 🎮 gaming.**
 
 **Currently working on**
-* [commandMe](https://github.com/healerx97/commandMe)
+* [CTrade](https://github.com/healerx97/CTrade)
 * Django
 * MariaDB
 
